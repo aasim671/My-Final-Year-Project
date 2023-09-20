@@ -1,0 +1,25 @@
+# This is an ecommerce site i have build for my final year project.
+
+# These instruction for for developer who want to use codebase.
+
+# Follow below the instructions to run this project.
+
+$ In order to run this project you should have xampp installed.
+
+$ Open xampp and start apache and mysql.
+
+$ Then open the directory in vscode or any specific command line.
+$ Run this command:  php -S localhost:8080
+$ Once you run this command it will start a local server.
+$ Now copy the http://localhost:8080 and paste into browser.
+
+
+$ Now open localhost/phpmyadmin in browser.
+$ Create a database with name ecommerce.
+$ Now click on import button and select the file Database/database.sql
+$ After you imported the file i will create all the tables in your ecommerce database.
+$ Now trying refresh the http://localhost:8080 and browse.
+
+
+# If you want to check how the project works.
+# You can check it on the website . Website flow . in navbar.
