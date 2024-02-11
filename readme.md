@@ -9,7 +9,7 @@ To use the project, follow the steps below:
 ```bash
 https://github.com/aasim671/My-Final-Year-Project
 ```
-Alternatively, you can download the project as a .zip file from https://github.com/Hilal123ajk/Ecommerce-Website and extract it.
+Alternatively, you can download the project as a .zip file from https://github.com/aasim671/My-Final-Year-Project and extract it.
 
 ### Set up the Database:
 
