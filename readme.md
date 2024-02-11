@@ -7,7 +7,7 @@ To use the project, follow the steps below:
 ### Clone the Repository or download using below details:
 
 ```bash
-https://github.com/Hilal123ajk/Ecommerce-Website
+https://github.com/aasim671/My-Final-Year-Project
 ```
 Alternatively, you can download the project as a .zip file from https://github.com/Hilal123ajk/Ecommerce-Website and extract it.
 
